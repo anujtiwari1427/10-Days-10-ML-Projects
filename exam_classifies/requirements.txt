@@ -1,0 +1,7 @@
+pymupdf
+nltk 
+scikit-learn 
+pandas 
+joblib 
+fastapi 
+uvicorn
